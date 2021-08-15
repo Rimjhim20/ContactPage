@@ -15,7 +15,7 @@ function App() {
            <div class="flex-auto p-5 w-max m-0 md:-ml-28 lg:m-0 2xl:m-0 ">
              <div class="container  " >
            <h1 class="text-5xl font-semibold mr-40 flex flex-wrap">Let's Chat</h1>
-          <span class="text-5xl font-semibold flex flex-wrap">Tell me about your </span>
+          <span class="text-5xl font-semibold tracking-tighter sm:tracking-tighter flex flex-wrap">Tell me about </span>
           <p class=" text-5xl font-semibold mr-44 flex flex-wrap">Project.</p>
           </div>
           <p class="mt-3 mb-4 text-gray-600 flex flex-wrap leading-relaxed mr-48">Let's create something together 🤟</p>
@@ -27,10 +27,10 @@ function App() {
           </div>
           <div class=" flex  ">
      <img src={ circle } class=" w-10 h-10 rounded-full"/>
-</div>
+       </div>
           </div>
          
-          <div class=" relative -mr-9 flex-wrap flex flex-col w-max break-words  shadow-lg rounded-3xl bg-white">
+          <div class=" relative   flex-wrap flex flex-col w-max break-words  shadow-lg rounded-3xl bg-white">
         <div class=" flex-auto   md:p-3 lg:p-7">
         <div class=" flex  ">
          <img src={ circle } class=" w-10 h-10 rounded-full"/>
